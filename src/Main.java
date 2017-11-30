@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Disperse change for: $90");
         dollarBillChain.makeChange(90);
         System.out.println("Disperse change for: $40");
-        dollarBillChain.makeChange(10);
+        dollarBillChain.makeChange(40);
 
     }
 }
